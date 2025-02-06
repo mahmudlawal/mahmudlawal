@@ -1,6 +1,5 @@
 ## Hey there! 👋 I'm Mahmud Lawal  
 
-<!--
 - 🔭 I’m currently working on **software development projects and exploring AI applications.**  
 - 🌱 I’m currently learning **advanced algorithms, system design, and cloud computing.**  
 - 👯 I’m looking to collaborate on **open-source projects, AI/ML initiatives, and backend development.**  
